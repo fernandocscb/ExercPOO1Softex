@@ -1,0 +1,22 @@
+Classifique dois objetos materiais e dois abstratos. Insira, no mínimo, três métodos e três atributos para cada.
+
+Objetos Materiais: 
+
+Classe “Mouse de computador”
+Atributos: marca, modelo, cor. 
+Métodos: Clicar(), Rolar(), Conectar(). 
+
+Classe “Fone de ouvido”
+Atributos: modelo, extensão do fio, encaixe. 
+Métodos: Conectar(), RegularVolume(), Transmitirsom(). 
+
+
+Objetos Abstratos:
+
+Classe "Conta Corrente”
+Atributos: agendamento, cadastro, interface.
+Métodos: Depositar(), Sacar(), Transferir()
+
+Classe "Aplicativo de streaming de áudio"
+Atributos: armazenamento de dados, interface, valor. 
+Métodos: ReproduzirSom(), ExibirLetras(), RegularVolume().
